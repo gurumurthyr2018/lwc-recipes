@@ -41,7 +41,7 @@
         "@salesforce/eslint-plugin-lightning": "^1.0.0",
         "@salesforce/sfdx-lwc-jest": "^1.1.2",
         "@typescript-eslint/eslint-plugin": "^5.39.0",
-        "eslint": "^8.24.0",
+        "eslint": "^8.35.0",
         "eslint-config-standard-with-typescript": "^23.0.0",
         "eslint-plugin-import": "^2.26.0",
         "eslint-plugin-jest": "^27.0.4",
